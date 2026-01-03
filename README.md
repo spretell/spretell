@@ -72,6 +72,5 @@ Thank you so much for taking the time to check out this page ♡
 
 Stephanie Pretell | R2H Apprentice Cohort 18  
 [linkedin](https://www.linkedin.com/in/stephaniepretell/)  
-[github](https://github.com/spretell)
 
 (ㅅ´ ˘ `)♡
