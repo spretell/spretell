@@ -1,4 +1,3 @@
-## hi !
 ### welcome to my github ₊˚⊹ ᰔ
 
 <p align="center">
