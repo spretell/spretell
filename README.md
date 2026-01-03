@@ -30,7 +30,7 @@ This project highlights creative CSS styling, responsive layouts, and dynamic pr
 **Tech:** HTML, CSS, JavaScript, JSON, AWS Amplify  
 **Highlights:** Responsive design · WCAG-friendly structure · Clean, professional UI
 
-🔗 [GitHub Repository](https://github.com/spretell/EcommerceProject)  
+🔗 [GitHub Repository](https://github.com/spretell/EcommerceProject) 
 🌐 [Live Site](https://main.d1qbs3jpsvjd74.amplifyapp.com/)
 
 (๑ᵔ⤙ᵔ๑)
@@ -44,8 +44,8 @@ Built to better understand **server-side logic, API handling, and clean separati
 **Tech:** Node.js, Express, Open-Meteo API, HTML, CSS, JavaScript  
 **Highlights:** Backend API routing · Responsive design · Accessibility-friendly features
 
-🔗 [GitHub Repository](your-link-here)  
-🌐 [Live Demo](your-link-here)
+🔗 [GitHub Repository](https://github.com/spretell/GI10_WeatherApp)  
+🌐 [Live Demo](https://charlotte-cloudcast.onrender.com/)
 
 𐔌՞. .՞𐦯
 
@@ -58,8 +58,8 @@ Includes refactored components inspired by advanced CSS coursework, rebuilt with
 **Tech:** HTML, CSS, Sass, JavaScript  
 **Highlights:** Advanced CSS & Sass · Mobile-first design · Thoughtful animations · Accessibility support
 
-🔗 [GitHub Repository](your-link-here)  
-🌐 [Live Site](your-link-here)
+🔗 [GitHub Repository](https://github.com/spretell/PortfolioRefactor)  
+🌐 [Live Site](https://spretell.github.io/PortfolioRefactor/)
 
 ˙𐃷˙
 
