@@ -4,9 +4,9 @@
   <img src="https://64.media.tumblr.com/fd965229b6e8c247967d7fd94a3d9994/88ea717f818feeea-b7/s640x960/74e708ed0eefec6f035d04d767e02018758faaee.gif" width="200px" alt="Cute Ditto Gif" />
 </p>
 
-I’m currently exploring **web development and backend concepts**, with a strong interest in creativity, design, and building experiences that feel intentional and engaging. Most of my projects center on experimenting, refining ideas, and on understanding *how things work*, not just making them work.
+I’m currently exploring **web development and backend concepts**, with a strong interest in creativity, design, and building experiences that feel intentional and engaging. 
 
-Most of my projects are part of my learning journey , focused on understanding *how things work*, not just making them work.
+Most of my projects center on experimenting, refining ideas, and on understanding *how things work*, not just making them work.
 
 ⟆͟ ͠ ‧͟ ᐧ 𑁤
 
