@@ -27,11 +27,11 @@ Most of my projects center on experimenting, refining ideas, and on understandin
 A clean, responsive eCommerce website for a fictional bakery brand, designed with a strong emphasis on **visual identity, accessibility, and user experience**.  
 This project highlights creative CSS styling, responsive layouts, and dynamic product rendering using JSON.
 
-**Tech:** HTML, CSS, JavaScript, JSON, AWS Amplify  
-**Highlights:** Responsive design · WCAG-friendly structure · Clean, professional UI
+**tech:** HTML, CSS, JavaScript, JSON, AWS Amplify  
+**highlights:** Responsive design · WCAG-friendly structure · Clean, professional UI
 
-🔗 [GitHub Repository](https://github.com/spretell/EcommerceProject) 
-🌐 [Live Site](https://main.d1qbs3jpsvjd74.amplifyapp.com/)
+🔗 [gitHub repository](https://github.com/spretell/EcommerceProject) 
+🌐 [live site](https://main.d1qbs3jpsvjd74.amplifyapp.com/)
 
 (๑ᵔ⤙ᵔ๑)
 
@@ -41,11 +41,11 @@ This project highlights creative CSS styling, responsive layouts, and dynamic pr
 A full-stack weather application that allows users to search real-time weather data by city or U.S. zip code.  
 Built to better understand **server-side logic, API handling, and clean separation between frontend and backend**.
 
-**Tech:** Node.js, Express, Open-Meteo API, HTML, CSS, JavaScript  
-**Highlights:** Backend API routing · Responsive design · Accessibility-friendly features
+**tech:** Node.js, Express, Open-Meteo API, HTML, CSS, JavaScript  
+**highlights:** Backend API routing · Responsive design · Accessibility-friendly features
 
-🔗 [GitHub Repository](https://github.com/spretell/GI10_WeatherApp)  
-🌐 [Live Demo](https://charlotte-cloudcast.onrender.com/)
+🔗 [gitHub repository](https://github.com/spretell/GI10_WeatherApp)  
+🌐 [live demo](https://charlotte-cloudcast.onrender.com/)
 
 𐔌՞. .՞𐦯
 
@@ -55,17 +55,17 @@ Built to better understand **server-side logic, API handling, and clean separati
 A personal portfolio showcasing my front-end projects and design work, with a focus on **process, detail, and creative growth**.  
 Includes refactored components inspired by advanced CSS coursework, rebuilt with my own structure and design choices.
 
-**Tech:** HTML, CSS, Sass, JavaScript  
-**Highlights:** Advanced CSS & Sass · Mobile-first design · Thoughtful animations · Accessibility support
+**tech:** HTML, CSS, Sass, JavaScript  
+**highlights:** Advanced CSS & Sass · Mobile-first design · Thoughtful animations · Accessibility support
 
-🔗 [GitHub Repository](https://github.com/spretell/PortfolioRefactor)  
-🌐 [Live Site](https://spretell.github.io/PortfolioRefactor/)
+🔗 [gitHub repository](https://github.com/spretell/PortfolioRefactor)  
+🌐 [live site](https://spretell.github.io/PortfolioRefactor/)
 
 ˙𐃷˙
 
 *(more coming soon ♡)*
 
-## Thank you ₊˚⊹ ᰔ
+## thank you ₊˚⊹ ᰔ
 
 Thank you so much for taking the time to check out this page ♡
 
